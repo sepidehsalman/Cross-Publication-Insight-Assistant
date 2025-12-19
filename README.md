@@ -1,7 +1,7 @@
 # Cross-Publication Insight Assistant
 
 A system that helps users explore **patterns and trends across multiple AI/ML projects**.  
-The input can be a list of GitHub repositories or publication identifiers (e.g., from Ready Tensor), and you can optionally include a natural-language query to guide the analysis (e.g., tool usage, evaluation methods, task types). :contentReference[oaicite:1]{index=1}
+The input can be a list of GitHub repositories or publication identifiers (e.g., from Ready Tensor), and you can optionally include a natural-language query to guide the analysis (e.g., tool usage, evaluation methods, task types). 
 
 ## 🚀 Features
 
