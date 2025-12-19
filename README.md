@@ -12,11 +12,11 @@ The input can be a list of GitHub repositories or publication identifiers (e.g.,
 
 ## 🧱 Project Structure
 
-├── backend/ # API server & data processing
-├── frontend/ # UI for interactive exploration
-├── .gitignore
-├── README.md
-└── …
+├── backend/ # API server & data processing\
+├── frontend/ # UI for interactive exploration\
+├── .gitignore\
+├── README.md\
+└── ...
 
 > ⚙️ The backend handles data collection, processing, and analysis.  
 > 🖥 The frontend is a React/JS client for visualizing insights.
