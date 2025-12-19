@@ -24,12 +24,10 @@ The input can be a list of GitHub repositories or publication identifiers (e.g.,
 ## 📦 Installation
 
 ### Backend
+Create and activate a virtual environment
 
 ```
 cd backend
-# install dependencies (example using npm / pip—adjust to your stack)
-npm install
-# or
 pip install -r requirements.txt
 ```
 ### Frontend
