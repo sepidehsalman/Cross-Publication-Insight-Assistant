@@ -16,8 +16,13 @@ The input can be a list of GitHub repositories or publication identifiers (e.g.,
 ├── frontend/ # UI for interactive exploration\
 ├── .gitignore\
 ├── README.md\
+└── .env
 └── ...
 
+### Create a .env file
+```
+GOOGLE_API_KEY=your_google_api_key_here
+```
 > ⚙️ The backend handles data collection, processing, and analysis.  
 > 🖥 The frontend is a React/JS client for visualizing insights.
 
