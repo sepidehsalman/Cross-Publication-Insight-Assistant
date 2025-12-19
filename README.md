@@ -16,7 +16,6 @@ A system that enables users to discover patterns and trends across multiple AI/M
 ├── .gitignore\
 ├── README.md\
 └── .env
-└── ...
 
 ### Create a .env file
 ```
