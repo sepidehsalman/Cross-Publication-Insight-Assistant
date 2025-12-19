@@ -38,17 +38,15 @@ cd frontend
 npm install
 ```
 ⚙️ Running Locally
-Start backend server
+### Start backend server
 ```
 cd backend
-npm start
-# or
-python app.py
+uvicorn api:api --reload --port 8000
 ```
-Start frontend
+### Start frontend
 ```
 cd frontend
-npm start
+npm run dev
 ```
 
 Visit http://localhost:3000 in your browser to interact with the app.
@@ -70,7 +68,6 @@ Trends across domains and tasks.
 💡 Examples
 ```
 # Example input
-repos.txt
 ---
 https://github.com/user1/awesome-ml
 https://github.com/user2/deep-learning
