@@ -70,8 +70,8 @@ Trends across domains and tasks.
 ```
 # Example input
 ---
-https://github.com/user1/awesome-ml
-https://github.com/user2/deep-learning
+https://github.com/firstrepo
+https://github.com/secondrepo
 ---
 Query: "evaluation metrics used"
 ```
