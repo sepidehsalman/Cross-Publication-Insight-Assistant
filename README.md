@@ -23,14 +23,14 @@ The input can be a list of GitHub repositories or publication identifiers (e.g.,
 
 ## 📦 Installation
 
-### Backend
+### Backend (Python)
 Create and activate a virtual environment
 
 ```
 cd backend
 pip install -r requirements.txt
 ```
-### Frontend
+### Frontend (Next.js)
 ```
 cd frontend
 npm install
