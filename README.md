@@ -35,20 +35,20 @@ npm install
 # or
 pip install -r requirements.txt
 Frontend
-bash
+```
 Copy code
 cd frontend
 npm install
 ⚙️ Running Locally
 Start backend server
-bash
+```
 Copy code
 cd backend
 npm start
 # or
 python app.py
 Start frontend
-bash
+```
 Copy code
 cd frontend
 npm start
@@ -68,7 +68,7 @@ Frequent evaluation methods;
 Trends across domains and tasks.
 
 💡 Examples
-bash
+```
 Copy code
 # Example input
 repos.txt
