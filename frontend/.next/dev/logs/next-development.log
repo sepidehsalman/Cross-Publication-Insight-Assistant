@@ -1,0 +1,66 @@
+[00:00:01.506] Server  LOG     ✓ Ready in 1184ms
+[00:00:03.755] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:24.037] Server  LOG     ✓ Compiled in 13ms
+[00:06:48.547] Server  LOG     ✓ Compiled in 10ms
+[00:07:06.924] Server  LOG     ✓ Compiled in 12ms
+[00:07:07.012] Browser ERROR   uncaughtError: TypeError: Cannot read properties of null (reading 'summary')
+[00:07:08.785] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:07:08.865] Server  LOG     ✓ Compiled in 9ms
+[00:07:09.008] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:30.586] Server  LOG     ✓ Compiled in 50ms
+[00:07:37.898] Server  LOG     ✓ Compiled in 11ms
+[00:08:24.501] Server  LOG     ✓ Compiled in 10ms
+[00:08:24.563] Browser ERROR   uncaughtError: TypeError: Cannot convert undefined or null to object
+[00:09:03.567] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:09:03.644] Server  LOG     ✓ Compiled in 11ms
+[00:09:03.782] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:43:43.258] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:52:15.211] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:52:29.698] Browser LOG     eeeeeeee {"aggregate":{},"comparison":{"CrewAI_projects":0,"LangChain_projects":0,"difference":0},"summary":"Based on the provided data, there is no information regarding the use of langgraph.","verified":false}
+[01:09:09.381] Server  LOG     ✓ Compiled in 117ms
+[01:09:55.436] Server  LOG     ✓ Compiled in 16ms
+[01:10:06.557] Server  LOG     ✓ Compiled in 12ms
+[01:10:32.186] Server  LOG     ✓ Compiled in 9ms
+[01:10:45.319] Browser LOG     eeeeeeee {"aggregate":{"langchain":{"count":1,"percentage":100},"langgraph":{"count":1,"percentage":100}},"comparison":{"CrewAI_projects":0,"LangChain_projects":1,"difference":-1},"summary":"The analysis indicates that 'langgraph' and 'langchain' each appeared in 100% of the single analyzed item. In a comparison, LangChain was found in 1 project, while CrewAI was present in 0 projects, resulting in LangChain projects outnumbering CrewAI projects by 1.","verified":true}
+[01:11:34.061] Server  LOG     ✓ Compiled in 12ms
+[01:11:35.925] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:13:06.149] Server  LOG     ✓ Compiled in 8ms
+[01:14:21.438] Server  LOG     ✓ Compiled in 13ms
+[01:14:59.355] Server  LOG     ✓ Compiled in 13ms
+[01:15:14.249] Server  LOG     ✓ Compiled in 38ms
+[01:15:19.102] Server  LOG     ✓ Compiled in 14ms
+[01:15:38.234] Server  LOG     ✓ Compiled in 14ms
+[01:15:48.269] Server  LOG     ✓ Compiled in 14ms
+[01:15:57.200] Server  LOG     ✓ Compiled in 8ms
+[01:16:04.036] Server  LOG     ✓ Compiled in 11ms
+[01:17:03.005] Server  LOG     ✓ Compiled in 9ms
+[01:17:31.127] Server  LOG     ✓ Compiled in 10ms
+[01:17:35.444] Server  LOG     ✓ Compiled in 10ms
+[01:17:52.826] Server  LOG     ✓ Compiled in 9ms
+[01:18:14.923] Server  LOG     ✓ Compiled in 13ms
+[01:21:45.496] Server  LOG     ✓ Compiled in 22ms
+[01:22:01.384] Server  LOG     ✓ Compiled in 12ms
+[01:22:15.139] Server  LOG     ✓ Compiled in 17ms
+[01:22:28.376] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:22:54.410] Server  LOG     ✓ Compiled in 13ms
+[01:23:07.475] Server  LOG     ✓ Compiled in 17ms
+[01:23:32.984] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:23:59.127] Server  LOG     ✓ Compiled in 11ms
+[01:24:12.165] Server  LOG     ✓ Compiled in 8ms
+[01:24:25.122] Server  LOG     ✓ Compiled in 8ms
+[01:25:45.591] Server  LOG     ✓ Compiled in 16ms
+[01:25:52.095] Server  LOG     ✓ Compiled in 16ms
+[01:26:13.362] Server  LOG     ✓ Compiled in 26ms
+[01:26:24.792] Server  LOG     ✓ Compiled in 13ms
+[01:26:30.543] Server  LOG     ✓ Compiled in 16ms
+[01:26:46.445] Server  LOG     ✓ Compiled in 14ms
+[01:27:11.413] Server  LOG     ✓ Compiled in 48ms
+[01:27:18.552] Server  LOG     ✓ Compiled in 8ms
+[01:27:29.891] Server  LOG     ✓ Compiled in 13ms
+[01:27:42.593] Server  LOG     ✓ Compiled in 13ms
+[01:27:48.682] Server  LOG     ✓ Compiled in 9ms
+[01:27:54.475] Server  LOG     ✓ Compiled in 10ms
+[01:27:57.744] Server  LOG     ✓ Compiled in 9ms
+[01:28:08.928] Server  LOG     ✓ Compiled in 10ms
+[01:28:49.270] Server  LOG     ✓ Compiled in 16ms
+[01:28:55.298] Server  LOG     ✓ Compiled in 9ms
